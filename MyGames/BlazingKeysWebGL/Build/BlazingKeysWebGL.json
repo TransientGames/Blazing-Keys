@@ -1,0 +1,16 @@
+{
+"companyName": "TransientGameStudio",
+"productName": "Blazing Keys",
+"productVersion": "0.1",
+"dataUrl": "BlazingKeysWebGL.data.unityweb",
+"wasmCodeUrl": "BlazingKeysWebGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "BlazingKeysWebGL.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.1f1"
+}
